@@ -1,6 +1,6 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
+    "this-repository": "https://github.com/jeffyuan2022/artifact-directory",
+    "project-repository": "https://github.com/jeffyuan2022/Disinfo-Detection-2",
     "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
     "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
 }
