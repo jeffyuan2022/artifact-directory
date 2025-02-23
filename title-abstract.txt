@@ -1,5 +1,6 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Hybrid Approaches for Disinformation Detection: Integrating Predictive and Generative AI Models
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+  Misinformation and disinformation threaten public trust and decision-making. This project develops an AI-powered system combining predictive and generative models to detect, rank, and mitigate false content in news articles. Using the LIAR- PLUS dataset and six initial Factuality Factors (expanding to twelve), the predictive model generates veracity scores through feature extraction and machine learning, while the generative model applies Fractal Chain of Thought (FCoT) prompting for improved contextual analysis.
+  Key innovations include asynchronous web scraping, vector database storage, graph database integration, and real-time context enrichment. FCoT prompting enhances consistency and accuracy in truthfulness evaluation. This work establishes a scalable framework for misinformation detection, with future improvements focusing on expanded factors, refined scoring, and efficient data management.
